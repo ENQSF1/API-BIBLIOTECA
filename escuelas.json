@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    " nombre": "Area Basica",
+    "nombre": "Area Basica",
     "historia": "Se le forma al estudiante en areas basica etc etc",
     "areas": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    " nombre": "Escuela de Ingeniería Mecánica Eléctrica",
+    "nombre": "Escuela de Ingeniería Mecánica Eléctrica",
     "historia": "Historia de la escuela Mecaninca Electrica",
     "areas": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "id": 3,
-    " nombre": "Escuela de Ingeniería Mecánica Industrial",
+    "nombre": "Escuela de Ingeniería Mecánica Industrial",
     "historia": "El origen de la Escuela de Ingeniería Mecánica Industrial, tiene sus inicios en el año de 1966 cuando el 8 de enero, el Consejo Superior Universitario en Acta No. 911 punto 5to. dio lectura al plan de estudios para la carrera del Ingeniero Mecánico Industrial, propuesta por la Facultad de Ingeniería, pidiendo que previo a su aprobación se presentasen estudios relativos a los intereses y necesidades de la misma para el país, así como las implicaciones económicas que su establecimiento traería a la Universidad de San Carlos, nombrando para ello una comisión, en la que, profesionales de Ingeniería Química tuvieron participación.\n\nEl 22 de enero del mismo año, según Acta No. 912, punto 8avo. del Consejo Superior Universitario, ingresa de nuevo a discusión la creación de la carrera, la cual queda pendiente por la falta del informe final de la Comisión Específica, y debido a los problemas que la Comisión afrontaba para la presentación del informe, el Consejo Superior Universitario decide el 2 de febrero, según Acta No. 914, punto 3ro., la creación de una comisión que estudiase la necesidad de técnicos para el desarrollo, con asesoría del Instituto Centroamericano de Investigaciones Tecnológicas e Industriales ICAITI, lo cual ponía en riesgo la creación de la nueva Escuela de Ingeniería Mecánica Industrial.",
     "areas": [
       {
@@ -62,7 +62,7 @@
   },
   {
     "id": 4,
-    " nombre": "Escuela de Ingeniería Mecánica",
+    "nombre": "Escuela de Ingeniería Mecánica",
     "historia": "La Ingeniería Mecánica, es una de las carreras que ha ofrecido la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala, desde el siglo pasado en el año 1968, como oportunidad de estudios superiores en la República de Guatemala. La Escuela de Ingeniería Mecánica tiene una historia relativamente reciente como tal, debido a que en los inicios, la carrera era administrada por la Escuela de Ingeniería Mecánica Industrial. Nació como independiente en el mes de octubre de 1986 al separarse de la Escuela mencionada, por resolución de Junta Directiva a petición de estudiantes y catedráticos de aquella época, siendo el principal visionario el Coordinador de la Carrera de aquel entonces, el Ing. Jorge Raúl Soto Obediente (QEPD) y los estudiantes de aquel entonces Rigoberto Fong, Leonel Ramírez y Sergio Castro entre otros.\n\nEsta separación fue necesaria dada la necesidad de desarrollar una rama de la ingeniería en forma separada, siendo la primera carrera en contar con un área exclusiva para que los catedráticos desarrollaran sus actividades y atendieran a los estudiantes, ya que esto no era posible en buena forma siendo un área de la Escuela en mención.",
     "areas": [
       {
@@ -74,7 +74,7 @@
   },
   {
     "id": 5,
-    " nombre": "Escuela de Ingeniería Civil",
+    "nombre": "Escuela de Ingeniería Civil",
     "historia": "La Universidad de San Carlos, fundada en 1676, en su época inicial graduaba teólogos, abogados y, más tarde, médicos. Hacia 1769 se crearon los cursos de Física y Geometría, paso que marcó el inicio de la enseñanza de las Ciencias Exactas en el Reino de Guatemala.\n\nEn 1834, siendo Jefe del Estado de Guatemala el Dr. Don Mariano Gálvez, se creó la Academia de Ciencias, sucesora de la Universidad de San Carlos, implantándose la enseñanza del Algebra, Geometría, Trigonometría y Física. Se otorgaron títulos de Agrimensores, siendo los primeros graduados Francisco Colmenares, Felipe Molina, Patricio de León y nuestro insigne poeta José Batres Montúfar.\n\nEn La Academia de Ciencias funcionó hasta 1840, año en que bajo el gobierno de Rafael Carrera, volvió a transformarse en la Universidad. En ese año, la Asamblea publicó los estatutos de la nueva organización, exigiendo que para obtener el título de Agrimensor, era necesario poseer el título de Bachiller en Filosofía, tener un año de práctica y aprobar el examen correspondiente.",
     "areas": [
       {
@@ -86,7 +86,7 @@
   },
   {
     "id": 6,
-    " nombre": "Escuela de Ingeniería Química",
+    "nombre": "Escuela de Ingeniería Química",
     "historia": "La historia de la ingeniería civil en la Universidad de San Carlos (USAC) de Guatemala se remonta a su fundación en 1676. Inicialmente, la USAC graduaba teólogos, abogados y médicos, pero en 1769 se introdujeron cursos de Física y Geometría, marcando el inicio de la enseñanza de Ciencias Exactas en el Reino de Guatemala. En 1834, bajo el liderazgo del Dr. Mariano Gálvez, se creó la Academia de Ciencias, sucesora de la USAC, y se comenzaron a impartir cursos de Álgebra, Geometría, Trigonometría y Física.\n\nLa Academia otorgó títulos de Agrimensores. La Revolución de 1871 influyó en la enseñanza técnica superior, y en 1879, se estableció la Escuela de Ingeniería en la USAC. A finales de la década de 1960, se propusieron reformas y modernización del plan de estudios.\n\nEn 1998, se introdujo la opción de Ingeniería Civil con Diplomado en Administración. La Facultad ha continuado evolucionando, estableciendo maestrías en áreas como Mantenimiento Industrial, Ciencia y Tecnología del Medio Ambiente, Energía y Ambiente, y Desarrollo Social. La Facultad de Ingeniería de la USAC ha mantenido su compromiso con la formación de ingenieros competentes y la contribución al desarrollo tecnológico y social de Guatemala a lo largo de su rica historia.",
     "areas": [
       {
@@ -103,7 +103,7 @@
   },
   {
     "id": 7,
-    " nombre": "Escuela de Ingeniería en Ciencias y Sistemas",
+    "nombre": "Escuela de Ingeniería en Ciencias y Sistemas",
     "historia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod ligula auctor, vehicula dolor id, facilisis libero. Aenean a fringilla nulla. Fusce vestibulum, ante sed imperdiet euismod, libero odio luctus quam, in facilisis erat turpis eu risus.\n\nLa Sed nec justo id ex rhoncus lacinia. Nunc vestibulum sagittis justo, non condimentum sapien. Quisque dictum, nisi eu volutpat vulputate, nisl velit tempus turpis, vel congue justo dui in dolor.\n\nLa Vivamus et justo quis urna posuere efficitur. Aenean bibendum elit non justo facilisis, eu dapibus sapien viverra. Cras at lectus sed justo tincidunt congue. Phasellus venenatis, urna eget egestas lacinia, elit nunc interdum urna, id malesuada erat tortor eu mi.",
     "areas": [
       {
