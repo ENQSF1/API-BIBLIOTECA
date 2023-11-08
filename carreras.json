@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    " carrera": "Matematicas",
+    "descripcion": "Descripción del Matematicas",
+    "cursos": [
+      {
+        "id": 1,
+        "nombre": "Matematica Intermedia 1",
+        "link": "https://drive.google.com/drive/u/1/shared-with-me"
+      },
+      {
+        "id": 2,
+        "nombre": "Matematica Intermedia 2",
+        "link": "https://drive.google.com/drive/u/1/folders/1-GIpFsfe0P55pwI1KpLzwAwCDKdabRq5"
+      },
+      {
+        "id": 3,
+        "nombre": "Matematica Intermedia 3",
+        "link": "https://drive.google.com/drive/u/1/folders/1XSbSUuNtxhg__YDWCKwQ-yhc3DrQLv7M"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    " carrera": "Fisica",
+    "descripcion": "Descripción del Fisica"
+  },
+  {
+    "id": 3,
+    " carrera": "Quimica",
+    "descripcion": "Descripción del Quimica"
+  },
+  {
+    "id": 4,
+    " carrera": "Ingenieria Electrica",
+    "descripcion": "Descripción de Ingeniería en Informática",
+    "link": "/carreras/1"
+  },
+  {
+    "id": 5,
+    " carrera": "Ingeniería Eléctronica",
+    "descripcion": "Descripción de Ingeniería Eléctrica",
+    "link": "/carreras/2"
+  },
+  {
+    "id": 6,
+    " carrera": "Ingeniería Mecanica Eléctrica",
+    "descripcion": "Descripción de Ingeniería Eléctrica",
+    "link": "/carreras/2"
+  },
+  {
+    "id": 7,
+    " carrera": "Ingeniería Mecanica Industrial",
+    "descripcion": "Descripción de Ingeniería Mecanica Industrial",
+    "link": "/carreras/4"
+  },
+  {
+    "id": 8,
+    " carrera": "Ingeniería Mecanica",
+    "descripcion": "Descripción de Ingeniería Mecanica",
+    "link": "/carreras/5"
+  },
+  {
+    "id": 9,
+    " carrera": "Ingeniería Civil",
+    "descripcion": "Descripción de Ingeniería Civil",
+    "link": "/carreras/5"
+  },
+  {
+    "id": 10,
+    " carrera": "Ingeniería Química",
+    "descripcion": "Descripción de Ingeniería Química",
+    "link": "/carreras/5"
+  },
+  {
+    "id": 11,
+    " carrera": "Ingeniería Ambiental",
+    "descripcion": "Descripción de Ingeniería Ambiental",
+    "link": "/carreras/2"
+  },
+  {
+    "id": 12,
+    " carrera": "Ingeniería en Ciencias y Sistemas",
+    "descripcion": "Descripción de Ingeniería en Ciencias y Sistemas",
+    "link": "/carreras/5"
+  },
+  {
+    "id": 13,
+    " carrera": "Ingeniería Industrial",
+    "descripcion": "Descripción de Ingeniería Industrial",
+    "link": "/carreras/5"
+  }
+]
